@@ -1,4 +1,4 @@
-# 📚 Library Management System
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=📚Library%20%20ManagementSystem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 A **Java** backend application built using **Hibernate ORM** and **PostgreSQL** to perform **CRUD (Create, Read, Update, Delete)** operations for managing library records such as books, members, and issued books.
 
